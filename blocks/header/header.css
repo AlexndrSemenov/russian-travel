@@ -1,0 +1,13 @@
+.header {
+  /*position: relative;
+  
+  overflow: hidden;*/
+ 
+  display: flex;
+  justify-content: space-between;
+  max-width: 1184px;
+  min-height: 52px;
+  
+  
+  border: 1px solid red;
+}  
