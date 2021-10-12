@@ -1,0 +1,22 @@
+.header__lang-link {
+  width: 30px;
+  height: 28px;
+  color: white;
+}
+
+.header__lang-link:last-child {
+  width: 29px;
+  height: 28px;
+}
+
+@media screen and (max-width: 320px) {
+  .header__lang-link {
+    width: 22px;
+    height: 20px;
+  }
+  
+  .header__lang-link:last-child {
+    width: 22px;
+    height: 20px;
+  }
+}

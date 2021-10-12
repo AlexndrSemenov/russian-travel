@@ -1,6 +1,22 @@
 .footer {
-    display: flex;
-    min-height: 350px;
-    background-color: #1f1f1f;
-    color:#fff;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto 24px;
+  max-width: calc(100% - 48px * 2);
+  min-height: 18px;
+  text-decoration: none;
+  list-style:none;
+}
+
+@media screen and (max-width: 768px) {
+  .footer {
+    max-width: calc(100% - 24px * 2);
   }
+}
+
+@media screen and (max-width: 320px) {
+  .footer {
+    display: block;
+    margin-left:16px;
+  }
+}
