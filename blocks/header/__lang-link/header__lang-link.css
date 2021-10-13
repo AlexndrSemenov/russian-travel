@@ -2,6 +2,8 @@
   width: 30px;
   height: 28px;
   color: white;
+  align-self: center;
+  text-decoration: none;
 }
 
 .header__lang-link:last-child {

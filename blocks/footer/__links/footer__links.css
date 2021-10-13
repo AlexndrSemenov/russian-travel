@@ -6,6 +6,7 @@
   list-style: none;
   font-size: 16px;
   line-height: 18px;
+  font-weight: 400;
 }
 
 @media screen and (max-width: 640px) {
@@ -25,3 +26,4 @@
     line-height: 24px;
   }
 }
+
