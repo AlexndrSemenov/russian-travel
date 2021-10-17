@@ -15,7 +15,6 @@
   .content__item:nth-child(2) {
     margin: 0 auto 92px 48px;
   }
-
 }
 
 @media screen and (max-width: 768px) {

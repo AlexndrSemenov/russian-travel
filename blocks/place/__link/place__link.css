@@ -8,10 +8,3 @@
   opacity: 0.8;
   transition: 0.5s;
 }
-
-@media screen and (max-width: 1024px) {
-  .place__link {
-    font-size: 18px;
-    line-height: 22px;
-  }
-}

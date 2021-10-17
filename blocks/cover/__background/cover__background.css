@@ -29,7 +29,7 @@
 }
 
 .cover__background:hover:after {
-  opacity: 0.75;
+  opacity: 0.8;
   transition: 0.5s;
 }
 
@@ -42,7 +42,6 @@
 
 @media screen and (max-width: 768px) {
   .cover__background {
-    max-width: 100%;
     min-height: 480px;
   }
 }
